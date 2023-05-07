@@ -1,0 +1,28 @@
+.time {
+  text-align: center;
+  padding: 2rem;
+
+}
+
+.time h3 {
+  font-family: 'Prata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 43px;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+  border-radius: 2px;
+}
+
+.cards {
+  width: 100%;
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+
+}
